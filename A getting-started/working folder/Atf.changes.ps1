@@ -1,0 +1,1 @@
+(Get-Content example.tf.history) | ForEach-Object { $_ -replace "bar", "barbiegirl" } | Set-Content example.tf
