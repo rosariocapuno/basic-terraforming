@@ -1,0 +1,1 @@
+start chrome https://eternallybored.org/misc/wget/1.20.3/64/wget.exe

@@ -1,0 +1,1 @@
+wget https://releases.hashicorp.com/terraform/0.12.0/terraform_0.12.0_windows_amd64.zip
